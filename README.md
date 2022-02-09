@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **muhammadraflij/muhammadraflij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua 👋
+
+Perkenalkan nama saya **M. Rafli Julian**,  
+Saya seorang mahasiswa semester 6 program studi **teknik elektro** di [Universitas Teknokrat Indonesia](https://teknokrat.ac.id/).  
+Saat ini saya sedang mempelajari **Machine Learning** di [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/).  
+Saya juga lulusan Studi Independen Kampus Merdeka batch 1 **AI for Startup** di [Orbit Future Academy](https://orbitfutureacademy.id/) Tahun 2021.  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadraflij/) ku ya 😊  
+
