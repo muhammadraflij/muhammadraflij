@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Halo semua 👋
+# hello there 👋
 
-Perkenalkan nama saya **M. Rafli Julian**,  
-Saya seorang mahasiswa semester 6 program studi **teknik elektro** di [Universitas Teknokrat Indonesia](https://teknokrat.ac.id/).  
-Saat ini saya sedang mempelajari **Machine Learning** di [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/).  
-Saya juga lulusan Studi Independen Kampus Merdeka batch 1 **AI for Startup** di [Orbit Future Academy](https://orbitfutureacademy.id/) Tahun 2021.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadraflij/) ku ya 😊  
+I am **M. Rafli Julian**,  
+I am a 6th semester student of the **electrical engineering** study program at the [Indonesian Technocrat University](https://teknokrat.ac.id/).  
+I'm currently studying **Machine Learning** at [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/).  
+I am also a graduate of Independent Studies Campus Merdeka Batch 1 **AI for Startup** at [Orbit Future Academy](https://orbitfutureacademy.id/) in 2021.  
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/muhammadraflij/) account, okay?😊  
+  
 
 <p align="left">
 <a href="https://github.com/muhammadraflij">
