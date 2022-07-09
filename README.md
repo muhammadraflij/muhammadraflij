@@ -26,8 +26,8 @@ I'm final year student of the Electrical Engineering study program at the Univer
 ## ⚙️ Latest Projects
 | Projects | Description |
 | --- | --- |
-| Company-Capstone | Indonesia Air Quality Forecasting |
-|  |  |
+| [company-capstone](https://github.com/muhammadraflij/company-capstone) | Indonesia Air Quality Forecasting |
+| [Fresh and Rotten Apple Detection](https://github.com/muhammadraflij/Tensorflow-lite-apples-detection) | Detection of fresh and rotten apples using tensorflow lite framework and efficientdet lite model    |
 
 
 ## 🔍 You Can Find Me at
