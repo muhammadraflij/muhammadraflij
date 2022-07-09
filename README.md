@@ -21,8 +21,14 @@ I'm final year student of the Electrical Engineering study program at the Univer
   - :zap: I'm Undergraduated from Bangkit Academy 2022 Program specializing in Machine Learning.
   - :telescope: I'm currently learning more about Data Science and Deep Learning
   - :seedling: **"1% each day for exceed 100% someday"**
+  
 
 ## ⚙️ Latest Projects
+| Projects | Description |
+| --- | --- |
+| Company-Capstone | Indonesia Air Quality Forecasting |
+|  |  |
+
 
 ## 🔍 You Can Find Me at
 <a href="https://www.linkedin.com/in/muhammadraflij/">
@@ -34,6 +40,7 @@ I'm final year student of the Electrical Engineering study program at the Univer
 <a href="https://www.instagram.com/muhammadrafliii/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 
 ## 
 ⚡ My Github Stats
