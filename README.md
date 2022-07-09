@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello there, I'm Rafli 👋
+![](https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif)
+# Hello there, I'm Rafli!
 I'm final year student of the Electrical Engineering study program at the Universitas Teknokrat Indonesia
 
   - :eyes: I’m interested in machine learning and enjoy exploring everything about data
