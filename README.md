@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello there, I'm Rafli!
 I'm final year student of the Electrical Engineering study program at the Universitas Teknokrat Indonesia
 
-  - <a href="[url](https://www.credential.net/22c8855c-f776-4a88-805d-7dcc40f86f77#gs.719xf9)"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55157155" height="25" width="25" ></a> [ Tensorflow Developer Certified](https://www.credential.net/22c8855c-f776-4a88-805d-7dcc40f86f77#gs.719xf9)
+  - <a href="https://www.credential.net/22c8855c-f776-4a88-805d-7dcc40f86f77#gs.719xf9"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55157155" height="25" width="25" ></a> [ Tensorflow Developer Certified](https://www.credential.net/22c8855c-f776-4a88-805d-7dcc40f86f77#gs.719xf9)
   - :eyes: I’m interested in machine learning and enjoy exploring everything about data
   - :zap: I'm Graduated from Orbit Future Academy Program specializing in Artificial Intelligence for Start-Up.
   - :zap: I'm Undergraduated from Bangkit Academy 2022 Program specializing in Machine Learning.
